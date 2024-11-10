@@ -18489,7 +18489,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "TAJR105K010RNJ"
+		(property "DigiKey" "TLJN226M010R3800"
 			(at 33.02 80.01 90)
 			(effects
 				(font
@@ -18764,7 +18764,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "TAJR105K010RNJ"
+		(property "DigiKey" "TLJN226M010R3800"
 			(at 48.26 80.01 90)
 			(effects
 				(font
